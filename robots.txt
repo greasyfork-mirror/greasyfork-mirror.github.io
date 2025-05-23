@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /tutorial.html
+Allow: /sitemap.xml
+
+Sitemap: https://greasyfork-mirror.github.io/sitemap.xml 
